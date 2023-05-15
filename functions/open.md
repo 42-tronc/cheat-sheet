@@ -86,7 +86,7 @@ In this example, the `open` function is called with the `filename`, the flags `O
 
 ## Often used with:
 - [[close]] - to close the fd that was opened.
-- [[Write]]
+- [[write]]
 
 
 ## Similar functions
