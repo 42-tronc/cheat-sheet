@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "edaa44ae9ce3e787",
+        "id": "22df49791ea09f8e",
         "type": "tabs",
         "children": [
           {
-            "id": "649acd6df5a44212",
+            "id": "230a0ed523aae4e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functions/open.md",
+                "file": "execve.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4b6d84c54dc91091",
+            "id": "0003cbac20411769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "minishell/minishell - exec.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52e43ee29ad784a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "functions/open.md",
+                "file": "waitpid.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "630cdc258d4442ac",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "minishell/minishell - exec.md",
+                "file": "execve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "minishell/minishell - exec.md",
+                "file": "execve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "minishell/minishell - exec.md"
+                "file": "execve.md"
               }
             }
           }
@@ -171,16 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b6d84c54dc91091",
+  "active": "230a0ed523aae4e0",
   "lastOpenFiles": [
-    "functions/write.md",
-    "functions/close.md",
+    "minishell/minishell - exec.md",
+    "waitpid.md",
+    "execve.md",
+    "wait.md",
     "functions/pipe.md",
+    "functions/write.md",
     "functions/open.md",
+    "functions/close.md",
     "functions/fork.md",
     "functions/dup2.md",
     "functions/readline.md",
-    "minishell/minishell - exec.md",
     "minishell",
     "functions"
   ]
