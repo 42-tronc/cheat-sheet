@@ -115,5 +115,5 @@ The `waitpid` function provides additional options, such as `WNOHANG`, to contro
 ---
 ## Similar functions
 
-- [[wait]] - a simpler version of `waitpid` that waits for any child process to terminate.
+- [[wait]] - a simpler version of [[waitpid]] that waits for any child process to terminate.
 - [[wait3]] and [[wait4]] - provide more fine-grained control over the retrieval of termination status and resource usage information.
