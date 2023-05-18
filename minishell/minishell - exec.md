@@ -36,8 +36,7 @@ check if it exists:
 			-> had previous: close the previous one and get the fd
 	-> if not found: continue
 
-cmd_block[]
+`cmd_block[]`
 		infile fd
 		outfile fd
 		here doc
-
