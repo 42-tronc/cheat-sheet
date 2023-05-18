@@ -18,3 +18,25 @@ if (id == -1)
 	2. fills an array with `command` and `args`
 	3. (maybe have the envp ?)
 	4. get the output to somewhere if there's one (so we can have it for the next pipe)
+
+
+`ls < infile -l > outfile -a`
+1. heredoc (launch it first)
+2. infile
+3. outfile
+4. cmd
+
+
+## infile
+check if it exists:
+	-> if found check it
+		-> error : block the cmd block
+		-> ok
+			-> no previous: get the fd for later
+			-> had previous: close the previous one and get the fd
+	-> if not found: continue
+
+cmd_block[pipe_count - 1]
+		infile fd[nb de infile]
+		outfile fd[nb de outfile]
+		here doc
