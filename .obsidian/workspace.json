@@ -8,27 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "230a0ed523aae4e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "execve.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0003cbac20411769",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "functions/waitpid.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "execve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "execve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "execve.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,11 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f0a8740d5a9fd97",
+  "active": "0003cbac20411769",
   "lastOpenFiles": [
-    "minishell/minishell - exec.md",
     "functions/waitpid.md",
-    "execve.md",
+    "Untitled.canvas",
+    "functions/execve.md",
+    "minishell/minishell - exec.md",
     "functions/wait.md",
     "functions/pipe.md",
     "functions/write.md",
