@@ -19,7 +19,7 @@ Need to know:
 1. in which block it is (could get it from the pipe_bloc in data?)
 2. fd is -2 if none was found before
 
-## if found (`block.in_fd != -2`)
+### if found (`block.in_fd != -2`)
 1. need to close the one before
 2. check the current
 3. set it as the new infile in `block.in_fd`
@@ -27,6 +27,10 @@ Need to know:
 # how2
 - check every infile once at first
 - check infiles only in the current cmd block
+	- do something like `while pipe_block = block`
+
+checks could return something, 1 if found, 0 if not found, -1 if error?
+could do `while(check_infile(tokens))`
 
 every file:
 	-> go over every file
