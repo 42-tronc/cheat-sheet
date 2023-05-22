@@ -15,6 +15,9 @@ check if it exists:
 			-> had previous: close the previous one and get the fd
 	-> if not found: continue
 
+Need to know:
+1
+
 # how2
 - check every infile once at first
 - check infiles only in the current cmd block
