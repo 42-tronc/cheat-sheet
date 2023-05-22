@@ -16,7 +16,13 @@ check if it exists:
 	-> if not found: continue
 
 Need to know:
-1
+1. in which block it is (could get it from the pipe_bloc in data?)
+2. fd is -2 if none was found before
+
+## if found (`block.in_fd != -2`)
+1. need to close the one before
+2. check the current
+3. set it as the new infile in `block.in_fd`
 
 # how2
 - check every infile once at first
