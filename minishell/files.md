@@ -24,13 +24,30 @@ Need to know:
 2. check the current
 3. set it as the new infile in `block.in_fd`
 
+need to be a loop for every file
+
 # how2
 - check every infile once at first
 - check infiles only in the current cmd block
 	- do something like `while pipe_block = block`
 
 checks could return something, 1 if found, 0 if not found, -1 if error?
-could do `while(check_infile(tokens))`
+could do 
+```c
+while(input)
+{
+	// check_heredoc
+	%%while(check_infile(tokens, block=i)) // not possible unless it returns the element checked%%
+	
+		
+	// check outfile
+	// check command
+	input = input.next
+}
+
+
+
+```
 
 every file:
 	-> go over every file
