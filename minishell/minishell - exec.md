@@ -25,3 +25,11 @@ if (id == -1)
 2. infile
 3. outfile
 4. cmd
+
+
+# how
+1. enter the **cmd block**
+2. check [[files]] (heredoc, infile, outfile)
+3. check cmd
+4. execve
+5. go to the next block
