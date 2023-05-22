@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "minishell/minishell - exec.md",
+                "file": "minishell/files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "minishell/minishell - exec.md",
+                "file": "minishell/files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "minishell/minishell - exec.md",
+                "file": "minishell/files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "minishell/minishell - exec.md"
+                "file": "minishell/files.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "0003cbac20411769",
   "lastOpenFiles": [
+    "minishell/minishell - exec.md",
+    "minishell/files.md",
     "functions/waitpid.md",
     "Untitled.canvas",
     "functions/execve.md",
-    "minishell/minishell - exec.md",
     "functions/wait.md",
     "functions/pipe.md",
     "functions/write.md",
