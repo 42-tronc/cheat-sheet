@@ -20,17 +20,11 @@ if (id == -1)
 	4. get the output to somewhere if there's one (so we can have it for the next pipe)
 
 
-`ls < infile -l > outfile -a`
-1. heredoc (launch it first)
-2. infile
-3. outfile
-4. cmd
-
-
 # how
 1. enter the **cmd block**
 2. check [[files]] (heredoc, infile, outfile)
 3. check if there is another cmd block following
-4. check cmd
-5. execve
-6. go to the next block
+4. dispatch to execve accordingly
+5. check cmd
+6. execve
+7. go to the next block
