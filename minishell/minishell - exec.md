@@ -30,6 +30,7 @@ if (id == -1)
 # how
 1. enter the **cmd block**
 2. check [[files]] (heredoc, infile, outfile)
-3. check cmd
-4. execve
-5. go to the next block
+3. check if there is another cmd block following
+4. check cmd
+5. execve
+6. go to the next block
