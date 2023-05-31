@@ -18,3 +18,5 @@ while (block > input->pipe_block && input->next)
 ```
 
 # checks
+
+https://youtu.be/cex9XrZCU14?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY
