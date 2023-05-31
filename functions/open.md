@@ -35,7 +35,7 @@ The `pathname` argument is a string that specifies the path of the file to be op
 
 The `mode` argument specifies the file mode and is used only if the `O_CREAT` flag is specified. It should be a bitwise OR of the following values:
 
-- `S_IRUSR` - read permission for the owner
+	- `S_IRUSR` - read permission for the owner
 - `S_IWUSR` - write permission for the owner
 - `S_IXUSR` - execute permission for the owner
 - `S_IRGRP` - read permission for the group
