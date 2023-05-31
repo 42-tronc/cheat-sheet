@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "minishell/exec_dispatch.md",
+                "file": "functions/open.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "minishell/exec_dispatch.md",
+                "file": "functions/open.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "minishell/exec_dispatch.md",
+                "file": "functions/open.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "minishell/exec_dispatch.md"
+                "file": "functions/open.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "0003cbac20411769",
   "lastOpenFiles": [
+    "functions/pipe.md",
+    "minishell/exec_dispatch.md",
     "minishell/files.md",
     "minishell/minishell - exec.md",
-    "minishell/exec_dispatch.md",
     "functions/waitpid.md",
     "functions/write.md",
     "functions/readline.md",
@@ -161,7 +162,6 @@
     "Untitled.canvas",
     "functions/execve.md",
     "functions/wait.md",
-    "functions/pipe.md",
     "minishell",
     "functions"
   ]
