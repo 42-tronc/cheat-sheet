@@ -37,7 +37,7 @@ could do
 while(input)
 {
 	// check_heredoc
-	%%while(check_infile(tokens, block=i)) // not possible unless it returns the element checked%%
+	while(check_infile(tokens, block=i)) // not possible unless it returns the element checked%%
 	
 		
 	// check outfile

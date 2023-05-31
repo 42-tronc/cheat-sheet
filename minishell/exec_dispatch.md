@@ -1,8 +1,10 @@
 1. checks heredoc
 2. checks infile
 3. checks outfile
-4. checks command
-5. jump to the next block
+4. checks if there is a pipe following that cmd block
+	1. 
+5. checks command
+6. [[#jump to the next block]]
 
 
 # jump to the next block
@@ -12,4 +14,6 @@ block displays the block being checked
 ```c
 block++;
 // now we need to align pip
+while (block > input->pipe_block && input->next)
+	input = input->next;
 ```
