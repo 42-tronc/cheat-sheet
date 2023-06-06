@@ -1,0 +1,2 @@
+- [ ] get return of checks (infile, outfile, cmd)
+- [ ] 
