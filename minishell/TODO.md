@@ -3,7 +3,7 @@
 - [ ] pass block id in exec_cmd
 - [ ] create a free all
 - [ ] handle signals
-- [ ] shlvl
+- [ ] SVLVL
 - [ ] redirections with built-ins
 - [ ] make functions static
 - [ ] 
