@@ -1,2 +1,9 @@
 - [ ] get return of checks (infile, outfile, cmd)
+- [ ] fix export and env
+- [ ] pass block id in exec_cmd
+- [ ] create a free all
+- [ ] handle signals
+- [ ] shlvl
+- [ ] redirections with built-ins
+- [ ] make functions static
 - [ ] 
