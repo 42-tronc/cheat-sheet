@@ -1,4 +1,4 @@
-- [ ] get return of checks (infile, outfile, cmd)
+- [x] get return of checks (infile, outfile, cmd)
 - [ ] fix export and env
 - [ ] pass block id in exec_cmd
 - [ ] create a free all
