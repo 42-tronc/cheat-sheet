@@ -1,6 +1,6 @@
 - [x] get return of checks (infile, outfile, cmd)
 - [ ] fix export and env
-- [ ] pass block id in exec_cmd
+- [x] pass block id in exec_cmd
 - [ ] create a free all
 - [x] handle signals
 - [ ] SVLVL
