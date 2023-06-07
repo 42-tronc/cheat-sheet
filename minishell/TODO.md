@@ -6,4 +6,4 @@
 - [ ] SVLVL
 - [ ] redirections with built-ins
 - [ ] make functions static
-- [ ] 
+- [ ] ./minishell in ./minishell `cat` not found
