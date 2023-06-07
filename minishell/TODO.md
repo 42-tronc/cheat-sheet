@@ -2,7 +2,7 @@
 - [ ] fix export and env
 - [ ] pass block id in exec_cmd
 - [ ] create a free all
-- [ ] handle signals
+- [x] handle signals
 - [ ] SVLVL
 - [ ] redirections with built-ins
 - [ ] make functions static
