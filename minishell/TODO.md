@@ -1,5 +1,9 @@
 - [x] get return of checks (infile, outfile, cmd)
-- [ ] fix export and env
+- [ ] fix built ins with outputs
+	- [ ] env
+	- [ ] export
+	- [ ] echo
+	- [ ] 
 - [x] pass block id in exec_cmd
 - [ ] create a free all
 - [x] handle signals
