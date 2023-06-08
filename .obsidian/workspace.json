@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functions/wait.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36f325a46ddc45df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "functions/dup2.md",
+                "file": "minishell/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functions/wait.md",
+                "file": "minishell/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functions/wait.md",
+                "file": "minishell/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functions/wait.md"
+                "file": "minishell/TODO.md"
               }
             }
           }
@@ -160,8 +148,9 @@
   },
   "active": "0003cbac20411769",
   "lastOpenFiles": [
-    "minishell/TODO.md",
+    "functions/wait.md",
     "functions/dup2.md",
+    "minishell/TODO.md",
     "minishell/exec_dispatch.md",
     "minishell/files.md",
     "functions/open.md",
@@ -174,7 +163,6 @@
     "functions/close.md",
     "Untitled.canvas",
     "functions/execve.md",
-    "functions/wait.md",
     "minishell",
     "functions"
   ]
