@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "927df6c07c28dde4",
+  "active": "0003cbac20411769",
   "lastOpenFiles": [
     "functions/wait.md",
     "functions/dup2.md",

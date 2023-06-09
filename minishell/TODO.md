@@ -10,3 +10,6 @@
 - [x] SVLVL
 - [ ] make functions static
 - [ ] ./minishell in ./minishell `cat` not found
+- [ ] error codes
+	- [ ] make them consistent
+	- [ ] fetch them and do appropriate action with such
