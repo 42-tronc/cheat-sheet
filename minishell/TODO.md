@@ -1,14 +1,12 @@
 - [x] get return of checks (infile, outfile, cmd)
 - [ ] fix built ins with outputs
-	- [ ] env
+	- [x] env
 	- [ ] export
-	- [ ] echo
-	- [ ] 
+	- [x] echo
 - [x] pass block id in exec_cmd
 - [ ] create a free all
 - [x] handle signals
-- [ ] echo output
+- [x] echo output
 - [x] SVLVL
-- [ ] redirections with built-ins
 - [ ] make functions static
 - [ ] ./minishell in ./minishell `cat` not found
