@@ -2,6 +2,7 @@
 - [ ] fix built ins with outputs
 	- [x] env
 	- [ ] export
+		- [ ] if null and value alr dont remove it
 	- [x] echo
 - [x] pass block id in exec_cmd
 - [ ] create a free all
