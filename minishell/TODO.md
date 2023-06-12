@@ -1,8 +1,8 @@
 - [x] get return of checks (infile, outfile, cmd)
-- [ ] fix built ins with outputs
+- [x] fix built ins with outputs
 	- [x] env
-	- [ ] export
-		- [ ] if null and value alr dont remove it
+	- [x] export
+		- [x] if null and value alr dont remove it
 	- [x] echo
 - [x] pass block id in exec_cmd
 - [ ] create a free all
