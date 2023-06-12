@@ -1,4 +1,4 @@
-``- [x] get return of checks (infile, outfile, cmd)
+- [x] get return of checks (infile, outfile, cmd)
 - [ ] fix built ins with outputs
 	- [x] env
 	- [ ] export
