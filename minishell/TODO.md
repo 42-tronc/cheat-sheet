@@ -8,7 +8,7 @@
 - [ ] create a free all
 - [x] handle signals
 - [x] echo output
-- [x] SVLVL
+- [ ] SHLVL
 - [ ] make functions static
 - [ ] ./minishell in ./minishell `cat` not found
 - [ ] error codes
