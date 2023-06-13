@@ -14,3 +14,11 @@
 - [ ] error codes
 	- [ ] make them consistent
 	- [ ] fetch them and do appropriate action with such
+
+# subshell exec
+- command_path
+- command_args
+- env array
+
+void create_subshell(t_data *data, t_token *input, int block)
+data.c
