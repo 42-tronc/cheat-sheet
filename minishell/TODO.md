@@ -14,6 +14,9 @@
 - [ ] error codes
 	- [ ] make them consistent
 	- [ ] fetch them and do appropriate action with such
+- [ ] check malloc
+- [ ] check exit codes
+
 
 # subshell exec
 - command_path
@@ -21,5 +24,6 @@
 - env array
 
 void create_subshell(t_data *data, t_token *input, int block)
-`data->cmd_block[0].cmdpath`
+`data->cmd_block[0].cmd_path`
 `data->cmd_block[0].cmd_arg`
+`data.env`
