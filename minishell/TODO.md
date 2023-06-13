@@ -27,3 +27,6 @@ void create_subshell(t_data *data, t_token *input, int block)
 `data->cmd_block[0].cmd_path`
 `data->cmd_block[0].cmd_arg`
 `data.env`
+
+if `pipe[0/1] > 0` it means that it is created so you can send something to it
+else dont send it to the pipe and to the stdout or get stdin
