@@ -21,4 +21,5 @@
 - env array
 
 void create_subshell(t_data *data, t_token *input, int block)
-data.c
+`data->cmd_block[0].cmdpath`
+`data->cmd_block[0].cmd_arg`
