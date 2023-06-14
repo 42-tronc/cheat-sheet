@@ -16,6 +16,7 @@
 	- [ ] fetch them and do appropriate action with such
 - [ ] check malloc
 - [ ] check exit codes
+- [ ] fix export with null values
 
 
 # subshell exec
