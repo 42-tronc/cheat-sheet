@@ -17,6 +17,7 @@
 - [ ] check malloc
 - [ ] check exit codes
 - [x] fix export with null values
+- [ ] heredoc
 
 
 # subshell exec
