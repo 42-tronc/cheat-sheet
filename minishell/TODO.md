@@ -9,6 +9,7 @@
 - [x] handle signals
 - [x] echo output
 - [ ] SHLVL
+- [ ] default env vars
 - [ ] make functions static
 - [ ] ./minishell in ./minishell `cat` not found
 - [ ] error codes

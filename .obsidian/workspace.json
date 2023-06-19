@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functions/execve.md",
+                "file": "minishell/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functions/execve.md",
+                "file": "minishell/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functions/execve.md",
+                "file": "minishell/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functions/execve.md"
+                "file": "minishell/TODO.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "0dc9fa6fa8da40d2",
   "lastOpenFiles": [
+    "functions/execve.md",
     "minishell/TODO.md",
     "functions/wait.md",
     "functions/dup2.md",
@@ -174,7 +175,6 @@
     "functions/fork.md",
     "functions/close.md",
     "Untitled.canvas",
-    "functions/execve.md",
     "minishell",
     "functions"
   ]
