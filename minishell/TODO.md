@@ -11,7 +11,7 @@
 - [ ] SHLVL
 - [ ] default env vars
 - [ ] make functions static
-- [ ] ./minishell in ./minishell `cat` not found
+- [x] ./minishell in ./minishell `cat` not found
 - [ ] error codes
 	- [ ] make them consistent
 	- [ ] fetch them and do appropriate action with such
@@ -19,6 +19,7 @@
 - [ ] check exit codes
 - [x] fix export with null values
 - [x] heredoc
+- [ ] reorder files
 
 
 # subshell exec
