@@ -12,9 +12,9 @@
 - [ ] default env vars
 - [ ] make functions static
 - [x] ./minishell in ./minishell `cat` not found
-- [ ] error codes
-	- [ ] make them consistent
-	- [ ] fetch them and do appropriate action with such
+- [x] error codes
+	- [x] make them consistent
+	- [x] fetch them and do appropriate action with such
 - [ ] check malloc
 - [ ] check exit codes
 - [x] fix export with null values
