@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "89e23bff29b362e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cub3D/parsing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0003cbac20411769",
             "type": "leaf",
             "state": {
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "minishell/TODO.md",
+                "file": "cub3D/parsing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "minishell/TODO.md",
+                "file": "cub3D/parsing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "minishell/TODO.md"
+                "file": "cub3D/parsing.md"
               }
             }
           }
@@ -169,10 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f8fc50a01f0f8bb",
+  "active": "2f0a8740d5a9fd97",
   "lastOpenFiles": [
-    "functions/execve.md",
     "minishell/TODO.md",
+    "cub3D/parsing.md",
+    "cub3D",
+    "functions/execve.md",
     "functions/wait.md",
     "functions/dup2.md",
     "minishell/exec_dispatch.md",
