@@ -1,6 +1,10 @@
+- [ ] nb arg
  - [ ] map
 	 - [ ] .cub
-	 - [ ] 
+	 - [ ] color 0 255
+	 - [ ] 3 couleurs
+	 - [ ] rgb[0] >> 16 | rgb[1] >> 8 | rgb[2]
+	 - [ ] pas dupe
  - [ ] file exist
  - [ ] 4 textures
 	 - [ ] xpm
