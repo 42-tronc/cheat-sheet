@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cub3D/parsing.md",
+                "file": "functions/dup2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"pip install genheader termcolor norminette\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cub3D/parsing.md",
+                "file": "functions/dup2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cub3D/parsing.md",
+                "file": "functions/dup2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cub3D/parsing.md"
+                "file": "functions/dup2.md"
               }
             }
           }
@@ -184,8 +183,9 @@
   },
   "active": "89e23bff29b362e2",
   "lastOpenFiles": [
-    "minishell/TODO.md",
+    "functions/close.md",
     "cub3D/parsing.md",
+    "minishell/TODO.md",
     "cub3D",
     "functions/execve.md",
     "functions/wait.md",
@@ -199,7 +199,6 @@
     "functions/write.md",
     "functions/readline.md",
     "functions/fork.md",
-    "functions/close.md",
     "Untitled.canvas",
     "minishell",
     "functions"
