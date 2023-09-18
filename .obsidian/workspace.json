@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"pip install genheader termcolor norminette\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f0a8740d5a9fd97",
+  "active": "94fba7b3eacdd21c",
   "lastOpenFiles": [
     "minishell/TODO.md",
     "cub3D/parsing.md",

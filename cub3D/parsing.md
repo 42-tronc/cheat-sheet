@@ -14,3 +14,6 @@
 - [ ] mlx
 	- [ ] init texture
 	- [ ] xpm to image
+
+
+`pip install genheader termcolor norminette`
