@@ -1,4 +1,4 @@
-- [ ] nb arg
+- [x] nb arg
 - [ ] check perms
 - [ ] map
 	 - [ ] .cub
