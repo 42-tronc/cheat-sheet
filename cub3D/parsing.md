@@ -1,4 +1,3 @@
- - [ ] extension
  - [ ] map
 	 - [ ] .cub
 	 - [ ] 
@@ -6,4 +5,7 @@
  - [ ] 4 textures
 	 - [ ] xpm
 	 - [ ] no dupe north
- - [ ] map
+- [ ] mlx
+	- [ ] init texture
+	- [ ] xpm to image
+	- [ ] 
