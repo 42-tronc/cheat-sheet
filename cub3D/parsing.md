@@ -1,7 +1,9 @@
 - [ ] nb arg
- - [ ] map
+- [ ] check perms
+- [ ] map
 	 - [ ] .cub
 	 - [ ] color 0 255
+	 - [ ] F ou C 
 	 - [ ] 3 couleurs
 	 - [ ] rgb[0] >> 16 | rgb[1] >> 8 | rgb[2]
 	 - [ ] pas dupe
@@ -12,4 +14,5 @@
 - [ ] mlx
 	- [ ] init texture
 	- [ ] xpm to image
-	- [ ] 
+
+swdkwa
