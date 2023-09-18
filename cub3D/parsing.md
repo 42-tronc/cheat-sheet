@@ -1,1 +1,2 @@
- - [ ] 
+ - [ ] check textures
+ - [ ] map
