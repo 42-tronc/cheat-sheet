@@ -1,2 +1,9 @@
- - [ ] check textures
+ - [ ] extension
+ - [ ] map
+	 - [ ] .cub
+	 - [ ] 
+ - [ ] file exist
+ - [ ] 4 textures
+	 - [ ] xpm
+	 - [ ] no dupe north
  - [ ] map
