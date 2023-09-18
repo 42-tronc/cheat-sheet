@@ -1,6 +1,6 @@
 - [x] nb arg
 - [ ] map
-	- [ ] .cub
+	- [x] .cub
 	- [ ] check perms
 	- [ ] color 0 255
 	- [ ] F ou C 

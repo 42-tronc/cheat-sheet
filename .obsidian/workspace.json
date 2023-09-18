@@ -36,7 +36,7 @@
               "type": "markdown",
               "state": {
                 "file": "cub3D/parsing.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -182,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94fba7b3eacdd21c",
+  "active": "89e23bff29b362e2",
   "lastOpenFiles": [
     "minishell/TODO.md",
     "cub3D/parsing.md",
