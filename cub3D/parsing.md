@@ -2,6 +2,7 @@
 - [ ] map
 	- [x] .cub
 	- [ ] check perms
+	- [ ] 
 	- [ ] color 0 255
 	- [ ] F ou C 
 	- [ ] 3 couleurs
@@ -14,6 +15,13 @@
 - [ ] mlx
 	- [ ] init texture
 	- [ ] xpm to image
+
+## Map
+- [ ] Can be separated by one or more empty lines
+- [ ] Any order for each type of element, but map is last
+- [ ] Type can be several spaces away from its value
+- [ ] 
+- [ ] Surrounded by walls
 
 
 `pip install genheader termcolor norminette`

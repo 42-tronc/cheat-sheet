@@ -35,19 +35,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functions/dup2.md",
-                "mode": "preview",
+                "file": "cub3D/parsing.md",
+                "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c0a22d73db661d2f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
               }
             }
           },
@@ -64,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functions/dup2.md",
+                "file": "cub3D/parsing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functions/dup2.md",
+                "file": "cub3D/parsing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functions/dup2.md"
+                "file": "cub3D/parsing.md"
               }
             }
           }
@@ -191,8 +181,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0a22d73db661d2f",
+  "active": "89e23bff29b362e2",
   "lastOpenFiles": [
+    "functions/dup2.md",
     "functions/read.md",
     "functions/close.md",
     "cub3D/parsing.md",
@@ -200,7 +191,6 @@
     "cub3D",
     "functions/execve.md",
     "functions/wait.md",
-    "functions/dup2.md",
     "minishell/exec_dispatch.md",
     "minishell/files.md",
     "functions/open.md",
