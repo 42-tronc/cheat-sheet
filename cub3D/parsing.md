@@ -20,7 +20,7 @@
 - [ ] Can be separated by one or more empty lines
 - [ ] Any order for each type of element, but map is last
 - [ ] Type can be several spaces away from its value
-- [ ] 
+- [ ] Can have leading spaces anywhere in the map 
 - [ ] Surrounded by walls
 
 
