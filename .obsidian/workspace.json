@@ -42,6 +42,16 @@
             }
           },
           {
+            "id": "c0a22d73db661d2f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
             "id": "0003cbac20411769",
             "type": "leaf",
             "state": {
@@ -54,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89e23bff29b362e2",
+  "active": "c0a22d73db661d2f",
   "lastOpenFiles": [
     "functions/close.md",
     "cub3D/parsing.md",
