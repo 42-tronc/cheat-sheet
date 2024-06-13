@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f11c4b5ccba0e47",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89e23bff29b362e2",
+  "active": "3f11c4b5ccba0e47",
   "lastOpenFiles": [
     "minishell/TODO.md",
     "cub3D/parsing.md",
